@@ -1,0 +1,47 @@
+/* style.css */
+body {
+  font-family: Arial;
+  padding: 50px;
+  border-color: rgb(243, 11, 11);
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: #f2f2f2;
+  padding: 20px;
+  border-radius: 8px;
+  border-color: blue;
+}
+
+input {
+  margin: 5px;
+  padding: 8px;
+  width: 70%;
+}
+
+button {
+  margin: 5px;
+  padding: 6px 10px;
+}
+
+.removeBtn {
+  background: red;
+  color: white;
+  border: none;
+  padding: 5px;
+}
+
+table, th, td {
+  border: 1px solid #26d7ee;
+  border-collapse: collapse;
+  padding: 8px;
+  margin-top: 15px;
+  width: 100%; 
+  border-color: blue;
+  th {
+  background-color: #1496ad; 
+  color: white;
+  padding: 20px;
+}
+}
